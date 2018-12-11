@@ -13,6 +13,8 @@ Finally,
 
 Clone URI as Import Existing Eclipse Projects option at the Select Wizard to use for importing projects step. 
 
+if you download the git project, Please consider the first level of the nested folder to easly import into eclipse ide.
+
 
 
 
