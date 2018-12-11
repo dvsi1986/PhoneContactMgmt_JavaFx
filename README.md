@@ -9,4 +9,10 @@ or
 
 You can clone the above project and run the Main.java. 
 
+Finally,
+
+Clone URI as Import Existing Eclipse Projects option at the Select Wizard to use for importing projects step. 
+
+
+
 
